@@ -4,5 +4,5 @@ This organization holds various repositories related to the project. Useful link
 
 - [project homepage](https://ropensci.org/r-universe/)
 - [documentation](https://docs.r-universe.dev/)
-- [issues](https://github.com/r-universe-org/bugs/issues) 
+- [central issue tracker](https://github.com/r-universe-org/bugs/issues) 
 - [discussions](https://github.com/r-universe-org/bugs/discussions)
