@@ -1,8 +1,6 @@
 
 # R-universe infrastructure code
 
-<img width="1635" height="962" alt="logo" src="https://github.com/user-attachments/assets/0c152407-38f8-45e6-bd2e-0a9392fb9edd" />
-
 This organization holds all infrastructure code used to run [r-universe.dev](https://r-universe.dev). Here you can find:
 
  - [`/help`](https://github.com/r-universe-org/help): central [issue tracker](https://github.com/r-universe-org/help/issues) and [discussion](https://github.com/r-universe-org/help/discussions) forum.
