@@ -5,6 +5,7 @@ This organization holds all infrastructure code used to run [r-universe.dev](htt
 
  - [`/help`](https://github.com/r-universe-org/help): central [issue tracker](https://github.com/r-universe-org/help/issues) and [discussion](https://github.com/r-universe-org/help/discussions) forum.
  - [`/frontend`](https://github.com/r-universe-org/frontend): the central server that runs r-universe.dev. It consists of express/mongodb stack that stores all R packages and metadata in a database, and renders the frontend, cran-like repos, etc.
+ - [`/edge-worker`](https://github.com/r-universe-org/edge-worker): cloudflare pre-router with some performance tweaks and analytics
  - [`/workflows`](https://github.com/r-universe-org/workflows): reusable GHA workflows that get triggered in the [monorepos](https://github.com/r-universe) to sync and build R packages.
  - [`/actions`](https://github.com/r-universe-org/actions): scripts used by the [build workflow](https://github.com/r-universe-org/workflows/blob/v1/.github/workflows/build.yml) to prepare, build, and check packages on all platforms.
  - [`/base-image`](https://github.com/r-universe-org/base-image): docker image (with sysdeps) used to build packages on Linux, including the initial source package.
